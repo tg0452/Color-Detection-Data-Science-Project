@@ -2,6 +2,7 @@
 COLOR DETECTION USING PYTHON
 
 INTRODUCTION
+
 Color plays a important role in human daily life for recognition. Color plays
 crucial role on how we perceive and analyze things around us. Based on
 primary colors (Red, Green, Blue), a lot of color models were established to
