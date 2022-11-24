@@ -1,4 +1,4 @@
-# Color-Detection---Data-Science-Project
+# Color-Detection-Data-Science-Project
 COLOR DETECTION USING PYTHON
 
 INTRODUCTION:
